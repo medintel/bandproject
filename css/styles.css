@@ -1,13 +1,15 @@
 img {
   float: left;
-  
+}
+body {
+  background-color: wheat;
 }
 .sidebar {
   width: 10%;
   float: right;
-  background-color: yellow;s
+  background-color: yellow;
 }
 .column {
-  width: 300px;
+  width: 20%;
   float: left;
 }
